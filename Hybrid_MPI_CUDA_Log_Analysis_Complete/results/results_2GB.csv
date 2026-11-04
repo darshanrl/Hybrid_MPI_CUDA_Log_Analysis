@@ -1,0 +1,11 @@
+variant,nprocs,time_sec
+serial,1,0.2725
+cuda_only,1,2.8062
+mpi_only,1,0.2193
+mpi_only,2,0.1176
+mpi_only,4,0.0797
+mpi_only,8,0.0560
+hybrid,1,1.0573
+hybrid,2,1.0832
+hybrid,4,1.0846
+hybrid,8,0.6759
